@@ -20,9 +20,9 @@ X. Questions
 The user will need to install the following node packages: express.
 
 ## Visuals
-<img src='./public/assets/images/ss1.png' alt='screenshot1' height='200px'>
-<img src='./public/assets/images/ss2.png' alt='screenshot2' height='200px'>
-<img src='./public/assets/images/ss3.png' alt='screenshot3' height='200px'>
+<img src='./public/assets/images/ss1.PNG' alt='screenshot1' height='200px'>
+<img src='./public/assets/images/ss2.PNG' alt='screenshot2' height='200px'>
+<img src='./public/assets/images/ss3.PNG' alt='screenshot3' height='200px'>
     
 ## Usage
 The project functions by taking in user input, saving that input to a JSON file, reading the JSON contents and displaying those contents back to the user.
