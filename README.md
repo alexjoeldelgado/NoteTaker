@@ -38,7 +38,9 @@ N/A
 
 ## Questions
 If you have any questions, please feel free to contact me below.
-Email: Not Provided
+
+Email: alexjoeldelgado@gmail.com
+
 <a href='https://github.com/alexjoeldelgado'>Github Profile: alexjoeldelgado</a>
 
 <img src='https://avatars2.githubusercontent.com/u/55860772?v=4' height='200px' alt='github avatar'>
